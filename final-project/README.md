@@ -19,7 +19,7 @@
 - **`Case.ipynb`**：分析不同市場條件下的情境案例。
 - **`DS_final_project_文件.pdf`**：完整專案說明文件，包含背景、方法、結果等細節。
 - **`DS_final_project_簡報.pdf`**：專案簡報，內附影片與快速概覽，適合快速理解專案內容。
-- **`Dec Sci_Final Project_Fall 24.pdf`**：額外相關資料，可能包含補充分析或數據。
+- **`Dec Sci_Final Project_Fall 24.pdf`**：專案題目。
 
 ## 主要功能
 
